@@ -10,9 +10,7 @@ This project aims to classify stress levels using machine learning techniques ba
 - [Performance Metrics](#performance-metrics)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 Stress is a prevalent issue that can significantly impact physical and mental health. This project aims to provide an efficient and accurate method for classifying stress levels using data collected through OpenBCI devices. By employing advanced machine learning techniques, we can analyze physiological data and predict stress levels with high precision.
